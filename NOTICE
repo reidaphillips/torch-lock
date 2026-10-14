@@ -1,0 +1,11 @@
+Torch Lock
+Copyright © Reid Phillips 2026/2027
+All rights reserved.
+
+This software is provided as-is, without warranty of any kind, express or
+implied. The author is not liable for any damage or loss arising from its use.
+
+Torch Lock turns the device flashlight off whenever it is switched on. Android
+provides no mechanism to prevent the torch being activated, only to switch it
+off after the fact, and no application can take the torch from another app that
+is currently holding the camera. This software does not claim to do either.
